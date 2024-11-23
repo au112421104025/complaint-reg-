@@ -1,6 +1,7 @@
-# My first Internship Project
+# My first  Project
+Online Complaint Registration and Management System
+This project is an Online Complaint Registration and Management System built using the MERN stack (MongoDB, Express.js, React, Node.js). It provides functionalities for users to register complaints and for administrators to manage these complaints effectively.
 
-Creating a full-stack web application for  Online Complaint Registration and Management system (street light, water pipe leakage, rainwater drainage, road)
 
 ## Problem Statement
 
@@ -8,10 +9,29 @@ The major goal of this project is to assist the general population in learning a
 
 ### Tools & Technologies for constructing ⚒️ ⚙️
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &thinsp; ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &thinsp; ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  &thinsp; ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) &thinsp;  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &thinsp; ![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) &thinsp; ![expressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)  &thinsp;
- ![mongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) &thinsp; 
 
 
-### About Me 👷🏼
+MongoDB: Utilized for the database to store user information and complaints.
 
-19, Student graduating BSc Information Technology, Aspiring young Fullstack Developer🧑‍💻.
+Express: A minimal and flexible Node.jsweb application framework used to build the server and API endpoints.
+
+React: A JavaScript library for building user interfaces, used to create the front-end of the application.
+
+Node.js: A JavaScript runtime built on Chrome's V8 engine, used to build the server-side of the application.
+
+JWT (JSON Web Tokens): Used for secure user authentication.
+
+Bcrypt: A library used to hash and securely store user passwords.
+
+FEATURES
+
+1.User Registration and Login
+
+2.Complaint Submission
+
+3.Complaint Management for Admins
+
+4.User Dashboard
+
+5.Admin Dashboard
+
